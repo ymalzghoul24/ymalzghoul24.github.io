@@ -1,0 +1,51 @@
+
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    color: black;
+    margin: 20px;
+}
+
+nav {
+    background-color: darkslategray;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: steelblue;
+}
+
+p {
+    line-height: 1.5;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    background-color: white;
+}
+
+th {
+    background-color: darkslategray;
+    color: white;
+}
+
+td, th {
+    border: 1px solid gray;
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color: steelblue;
+}
